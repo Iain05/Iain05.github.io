@@ -1477,8 +1477,9 @@ figcaption {
 .image-6 {
   width: 35px;
   margin-bottom: 10px;
-  margin-left: 160px;
+  margin-left: auto;
   padding-left: 0px;
+  margin-right: auto;
   text-align: center;
 }
 
