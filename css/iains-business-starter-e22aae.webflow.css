@@ -603,8 +603,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(13%, #090909), color-stop(25%, rgba(0, 0, 0, 0.01)), to(transparent)), url('../images/damiano-lingauri-bUM4weg0RSI-unsplash.jpg');
-  background-image: linear-gradient(0deg, #090909 13%, rgba(0, 0, 0, 0.01) 25%, transparent), url('../images/damiano-lingauri-bUM4weg0RSI-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(13%, #090909), color-stop(25%, rgba(0, 0, 0, 0.01)), to(transparent)), url('../images/damiano-lingauri-bUM4weg0RSI-unsplash-p-1080.jpg');
+  background-image: linear-gradient(0deg, #090909 13%, rgba(0, 0, 0, 0.01) 25%, transparent), url('../images/damiano-lingauri-bUM4weg0RSI-unsplash-p-1080.jpg');
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
   color: #fff;
